@@ -1,5 +1,7 @@
 # ArduPanel_Arduino
 Program dla arduino który wysyła informacje do [ArduPanel](https://github.com/mateuszpiela/ArduPanel/)
+
+Kontakt z wsparciem technicznym : [MateuszBB](https://mateuszbb.tk/viewforum.php?f=17)
 ## Komendy
 - /funkcje pokazuje dostępne funkcje programu
 
